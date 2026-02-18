@@ -1,0 +1,1 @@
+echo "Hallo Welt aus einem Docker Container!"
