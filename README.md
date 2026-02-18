@@ -41,7 +41,7 @@ docker compose up -d
 Applikation startet auf [localhost](http://localhost)  
 Datenbankverwaltung startet auf [db.localhost](http://db.localhost)
 
-## 3.2 Images bauen - [Übung zu Dockerfiles](./exercise-1/README.md)
+## 3.2 Images bauen - [Übung zu Dockerfiles](./exercise/README.md)
 
 [Dokumentation](https://docs.docker.com/get-started/docker-concepts/building-images/)
 
