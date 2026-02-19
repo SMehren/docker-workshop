@@ -36,7 +36,7 @@ Docker Desktop mit jeweiligem Installer installieren
 Docker Desktop starten
 
 ```sh
-cd ./aufgabe-1
+cd ./result
 docker compose up -d
 ```
 
