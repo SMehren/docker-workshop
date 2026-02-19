@@ -6,13 +6,13 @@
 
 [Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?hl=de-DE&gl=DE)  
 [PowerShell](https://learn.microsoft.com/de-de/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5#winget)  
-[Git](https://git-scm.com/install/windows)
+[Git](https://git-scm.com/install/windows)  
 [VSCode](https://code.visualstudio.com/download)
 
 ### 1.2 Mac
 
 Mac Terminal  
-[Git](https://git-scm.com/install/mac)
+[Git](https://git-scm.com/install/mac)  
 [VSCode](https://code.visualstudio.com/download)
 
 ## 2. Installation
