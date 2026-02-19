@@ -69,7 +69,7 @@ git clone https://github.com/docker/getting-started-app.git ./docker-workshop-to
 
 .git Ordner löschen und ein neues privates git Repository in einem eigenen Account erstellen
 
-### 4.4 Image auf GHCR hochladen
+### 4.4 Image auf GHCR hochladen (Optional)
 
 [Dokumentation](https://docs.github.com/de/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
 
