@@ -65,7 +65,7 @@ git clone https://github.com/docker/getting-started-app.git ./docker-workshop-to
 
 ### 4.2 [Anwendung Anpassen  & Interaktion mit Containern](https://docs.docker.com/get-started/workshop/03_updating_app/)
 
-### 4.3 Github Repository für Projekt erstellen
+### 4.3 Github Repository für Projekt erstellen (Optional)
 
 .git Ordner löschen und ein neues privates git Repository in einem eigenen Account erstellen
 
