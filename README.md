@@ -33,6 +33,12 @@ Docker Desktop mit jeweiligem Installer installieren
 
 ### 3.1 [Endergebnis](./result/)
 
+Dieses git repository clonen
+
+```sh
+git clone https://github.com/SMehren/docker-workshop
+```
+
 Docker Desktop starten
 
 ```sh
